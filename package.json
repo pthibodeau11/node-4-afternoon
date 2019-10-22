@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Node 3 - Afternoon",
   "main": "server/index.js",
-  "proxy": "http://localhost:3010",
+  "proxy": "http://localhost:3000",
   "dependencies": {
     "axios": "^0.16.2",
     "dotenv": "^8.2.0",
@@ -26,7 +26,6 @@
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject"
   },
-  "proxy": "http://localhost:3000",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/devlemire/swag-node-shop.git"
